@@ -1,0 +1,12 @@
+---
+title: "Trymerge"
+author: "Yifan Wang"
+date: "10/7/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My Teammate's update
