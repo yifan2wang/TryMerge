@@ -1,7 +1,5 @@
 ---
 title: "Trymerge"
-author: "Yifan Wang"
-date: "10/7/2021"
 output: pdf_document
 ---
 
