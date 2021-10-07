@@ -10,3 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 My Teammate's update
+Code1
+Code2
+Comment1
+Comment2
