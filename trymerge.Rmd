@@ -7,12 +7,12 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Yifan's update
-
-```{r mychunk1}
-# code and comment
-```
-
 ```{r mychunk2}
 # code and comment
 ```
+
+My Teammate's update
+
+Code2
+
+Comment2
