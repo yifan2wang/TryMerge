@@ -1,0 +1,18 @@
+---
+title: "Trymerge"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Yifan's update
+
+```{r mychunk1}
+# code and comment
+```
+
+```{r mychunk2}
+# code and comment
+```
